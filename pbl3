@@ -23,7 +23,7 @@ import time
 import argparse
 
 #============================파일 불러오기===========================
-absol_rou = "/Users/gkalstn/Desktop/19-2/AI/pbl2"
+absol_rou = "/Users/gkalstn/my_project/MNIST"
 
 def read(dataset = "training", path = "."):
     """
